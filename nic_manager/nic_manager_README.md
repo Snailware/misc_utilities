@@ -1,10 +1,10 @@
 # <center>nic manager</center>
 
 this script will monitor the connection to a desired network device. upon loss
-of connection, the local NIC </br>will be disabled & then re-enabled. 
+of connection, the local NIC will be disabled & then re-enabled. 
 
 this is a solution for an embedded windows system that has driver issues. 
-Manufacturer cant provide a </br>driver that doesnt randomly freeze up, so this 
+Manufacturer cant provide a driver that doesnt randomly freeze up, so this 
 script restarts the NIC whenever pings to the client system fail.
 
 ## Quick Setup Guide
